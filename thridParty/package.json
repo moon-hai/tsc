@@ -1,0 +1,21 @@
+{
+  "name": "thridParty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.150",
+    "class-transformer": "^0.2.3",
+    "class-validator": "^0.12.2",
+    "lodash": "^4.17.15",
+    "reflect-metadata": "^0.1.13",
+    "ts-loader": "^7.0.2",
+    "typescript": "^3.8.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
